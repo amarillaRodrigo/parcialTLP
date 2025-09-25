@@ -1,4 +1,3 @@
-
 interface INuevoInventario {
     agregarEquipo(nombre: string, tipo: string, estado: string): void;
     listarEquipos(): { nombre: string; tipo: string; estado: string }[];
