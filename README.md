@@ -1,4 +1,4 @@
-Para compilar el codigo simplemente ejecutar los siguientes codigos:
+Para compilar el codigo simplemente ejecutar los siguientes comandos en la terminal:
 - npm i
 - npx tsc
 - moverse a la carpeta dist con cd dist
